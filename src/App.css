@@ -1,0 +1,79 @@
+.App {
+  background: #ededed;
+  height: 100vh;
+}
+.App-logo{
+	margin-bottom: 30px;
+}
+
+.navbar-blue{
+	background-color: #2993fb;
+}
+
+.navbar-blue a{
+	color: white;
+}
+
+.navbar-blue a:hover{
+	color: rgb(87, 96, 119);
+	transition: all 0.5s;
+}
+
+.badge-gray{	
+background-color: #f7b532;
+color: white; 
+padding: .4em .6em !important;
+}
+
+
+.card-shadow{
+	
+box-shadow: 0px 30px 40px -20px rgba(0, 0, 0, 0.15)
+}
+
+.btn{
+	border-radius:25px;
+}
+.btn-big{
+	padding: 7px 50px 7px 50px;
+	text-transform: uppercase;
+	background-color: #2993fb;
+	border: #2993fb;
+	
+}
+
+.btn-big:hover{
+	transition: all 0.5s;
+	background-color: #f7b532;
+	border: #f7b532;	
+}
+
+.card-title{
+	padding: 13px 10px;
+}
+
+h4{
+	color:white;
+	margin-top: 10px;
+}
+
+.badge-autor{
+	color:white;
+	background-color:rgb(87, 96, 119);
+}
+.card-title{
+	color:white;
+	background-color:#2993fb; 
+}
+.badge-center{
+	width: 100px;
+	margin: 0 auto;
+}
+.content-block{
+	margin-top: -15px;
+}
+.btn-gray{
+	background-color: #f7b532;
+	color: white;
+	padding: 7px 50px 7px 50px;
+}

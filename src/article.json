@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "titulo": "Mi primer artículo",
+      "autor": "Miguel Angel",
+      "descripcion": "Este es mi primer artículo publicado desde mi primera web app hecha con React",
+      "status": "Borraodr"
+    }
+  ]
+}
